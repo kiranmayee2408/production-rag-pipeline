@@ -1,0 +1,20 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.2
+pydantic-settings==2.6.1
+httpx==0.28.0
+python-dotenv==1.0.1
+
+# Vector stores (install one)
+chromadb==0.6.3
+# qdrant-client==1.12.1
+
+# Embeddings (install one)
+openai==1.57.0
+# sentence-transformers==3.3.1
+
+# Document loading
+pypdf==5.1.0
+
+# Optional: for semantic chunking
+# numpy==2.2.0
