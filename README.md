@@ -208,7 +208,7 @@ production-rag/
 ## Related Work
 
 - [LLM Observability Dashboard](https://github.com/kiranmayee2408/llm-observability-dashboard) — Monitor RAG quality in production
-- [AC Advisor](https://github.com/kiranmayee2408/ac-advisor) — IEEE-published ML system (uses similar pipeline patterns)
+- [AC Advisor (IEEE)](https://github.com/kiranmayee2408/Ac-advisor-ieee)
 
 ---
 
